@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGod.Build.cs",
+		"Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod.Target.cs",
+		"Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGodEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

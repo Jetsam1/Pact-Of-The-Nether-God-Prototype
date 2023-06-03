@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PactOfTheNetherGod.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\PactOfTheNetherGodEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\Grabber.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\Mover.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGod.init.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGodCharacter.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGodGameMode.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGodProjectile.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\TP_PickUpComponent.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\TP_WeaponComponent.gen.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGod.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGodCharacter.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGodGameMode.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\PactOfTheNetherGodProjectile.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\TP_PickUpComponent.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\TP_WeaponComponent.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\Grabber.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\Mover.cpp.obj"
+"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\Default.rc2.res"
+/OUT:"Y:\Unreal Games\Pact Of The Nether God\Pact-Of-The-Nether-God\PactOfTheNetherGod\Intermediate\Build\Win64\UnrealEditor\Development\PactOfTheNetherGod\UnrealEditor-PactOfTheNetherGod.lib"

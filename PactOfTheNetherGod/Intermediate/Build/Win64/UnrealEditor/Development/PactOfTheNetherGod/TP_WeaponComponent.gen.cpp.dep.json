@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\inc\\pactofthenethergod\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\pactofthenethergodeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\development\\pactofthenethergod\\definitions.pactofthenethergod.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\source\\pactofthenethergod\\tp_weaponcomponent.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\inc\\pactofthenethergod\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\inc\\pactofthenethergod\\uht\\pactofthenethergodgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\pactofthenethergodeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\development\\pactofthenethergod\\definitions.pactofthenethergod.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\source\\pactofthenethergod\\pactofthenethergodgamemode.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\inc\\pactofthenethergod\\uht\\pactofthenethergodgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PactOfTheNetherGod",
+			"Path": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PactOfTheNetherGodEditor",
+			"Path": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGodEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

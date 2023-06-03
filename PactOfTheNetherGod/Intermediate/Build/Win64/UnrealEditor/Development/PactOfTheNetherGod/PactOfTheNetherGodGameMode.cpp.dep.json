@@ -1,0 +1,29 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\source\\pactofthenethergod\\pactofthenethergodgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\pactofthenethergodeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\development\\pactofthenethergod\\definitions.pactofthenethergod.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\source\\pactofthenethergod\\pactofthenethergodgamemode.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\inc\\pactofthenethergod\\uht\\pactofthenethergodgamemode.generated.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\source\\pactofthenethergod\\pactofthenethergodcharacter.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "y:\\ue5.1\\ue_5.1\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "y:\\unreal games\\pact of the nether god\\pact-of-the-nether-god\\pactofthenethergod\\intermediate\\build\\win64\\unrealeditor\\inc\\pactofthenethergod\\uht\\pactofthenethergodcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Levels/Main.umap",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/EditedAssets/BP_Torch_Dungeon.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/EditedAssets/BP_Torch_Dungeon_Lit.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_Player.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_PactOfTheNetherGodGameMode.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_WarpWall.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_StatueStand.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_ObjectStand.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_Door.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_MovingWall.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/BP_CellMover.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Blueprints/SM_Cell_Side2_Blueprint.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/Levels/Untitled.umap",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God-Prototype/PactOfTheNetherGod/Content/Blueprints/BP_Player.uasset",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God-Prototype/PactOfTheNetherGod/Content/Levels/Main.umap",
+				"Y:/Unreal Games/Pact Of The Nether God/Pact-Of-The-Nether-God/PactOfTheNetherGod/Content/BP_Player.uasset"
+			]
+		}
+	]
+}
