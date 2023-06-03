@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "PactOfTheNetherGodEditor Editor Win64 Development (PactOfTheNetherGod)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
