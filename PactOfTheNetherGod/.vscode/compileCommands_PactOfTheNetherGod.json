@@ -1,0 +1,154 @@
+[
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\Mover.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\Mover.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGod.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGod.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGod.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGodCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGodCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGodGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGodGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGodProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\PactOfTheNetherGodProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\Source\\PactOfTheNetherGod\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@Y:\\Unreal Games\\Pact Of The Nether God\\Pact-Of-The-Nether-God\\PactOfTheNetherGod\\.vscode\\compileCommands_PactOfTheNetherGod\\PactOfTheNetherGod.255.rsp"
+		],
+		"directory": "Y:\\UE5.1\\UE_5.1\\Engine\\Source"
+	}
+]
